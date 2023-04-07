@@ -1,0 +1,50 @@
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).exe.config
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).exe
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).pdb
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).xml
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbprojAssemblyReference.cache
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\obj\Debug\Chess__Project_.Resources.resources
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbproj.GenerateResource.cache
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbproj.CoreCompileInputs.cache
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).exe
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).xml
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).pdb
+C:\Users\Archie\source\repos\Chess (Project)\Chess (Project)\obj\Debug\Chess__Project_.ChessAI.resources
+D:\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).exe.config
+D:\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).exe
+D:\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).pdb
+D:\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).xml
+D:\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbprojAssemblyReference.cache
+D:\Chess (Project)\Chess (Project)\obj\Debug\Chess__Project_.ChessAI.resources
+D:\Chess (Project)\Chess (Project)\obj\Debug\Chess__Project_.Resources.resources
+D:\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbproj.GenerateResource.cache
+D:\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).exe
+D:\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).xml
+D:\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).pdb
+D:\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbproj.CoreCompileInputs.cache
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).exe.config
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).exe
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).pdb
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).xml
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess__Project_.ChessAI.resources
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess__Project_.Resources.resources
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbproj.GenerateResource.cache
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbproj.CoreCompileInputs.cache
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).exe
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).xml
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).pdb
+C:\Users\Archie\source\repos\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbproj.AssemblyReference.cache
+D:\NEA\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).exe.config
+D:\NEA\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).exe
+D:\NEA\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).pdb
+D:\NEA\Chess (Project)\Chess (Project)\bin\Debug\Chess (Project).xml
+D:\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess__Project_.Resources.resources
+D:\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbproj.GenerateResource.cache
+D:\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).exe
+D:\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).xml
+D:\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).pdb
+D:\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess__Project_.StartMenu.resources
+D:\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess__Project_.ChessGame.resources
+D:\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess__Project_.ResultMessage.resources
+D:\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbproj.AssemblyReference.cache
+D:\NEA\Chess (Project)\Chess (Project)\obj\Debug\Chess (Project).vbproj.CoreCompileInputs.cache
