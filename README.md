@@ -1,0 +1,2 @@
+# chess-engine-with-AI-opponents
+ Chess engine implementation in VB that hosted varying levels of AI opponents. AI levels traversed move generation trees using a depth first minimax search algorithm based on Von Neumann’s zero sum game theory - where neither player should unilaterally deviate from a Nash equilibrium. The project included traversal optimisations for time efficiency, including alpha-beta pruning, move ordering, iterative deepening and transposition bypasses.
